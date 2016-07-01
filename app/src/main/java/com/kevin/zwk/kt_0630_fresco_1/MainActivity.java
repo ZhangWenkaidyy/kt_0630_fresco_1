@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         simpleDraweeView.setImageURI(uri);
         DraweeController controller = Fresco.newDraweeControllerBuilder().setAutoPlayAnimations(true)
                 .setUri(Uri.parse(img_gif))
-
                 .build();
         simpleDraweeView_gif.setController(controller);
 
