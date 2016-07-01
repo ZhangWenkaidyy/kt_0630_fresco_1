@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fresco_demo_2/fresco_demo_2.iml" filepath="$PROJECT_DIR$/fresco_demo_2/fresco_demo_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/kt_0630_fresco_1.iml" filepath="$PROJECT_DIR$/kt_0630_fresco_1.iml" />
     </modules>
   </component>
